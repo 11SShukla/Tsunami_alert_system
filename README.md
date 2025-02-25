@@ -24,6 +24,3 @@ The system employs a Lightgbm ML algorithm  to analyze data and predict the like
 * Improved accuracy.
 * Expand to more states.
 
-**Disclaimer:**
-
-This system is for informational purposes only. Refer to official sources for warnings.
